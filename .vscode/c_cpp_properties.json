@@ -1,0 +1,83 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/Gabriel/Documents/GitHub/Bicycle_speedometer_GSM_GPS/include",
+                "c:/Users/Gabriel/Documents/GitHub/Bicycle_speedometer_GSM_GPS/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/variants/leonardo",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit-GFX-Library-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_BMP280_Library-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_BusIO-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_SSD1306-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_Sensor-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Low-Power-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/PinChangeInterruptHandler-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Qwiic_Capacitive_Touch_Slider_Arduino_Library-master/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/RFReceiver-master/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/RFTransmitter-master",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/u8g2-master",
+                "C:/Users/Gabriel/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Gabriel/Documents/GitHub/Bicycle_speedometer_GSM_GPS/include",
+                    "c:/Users/Gabriel/Documents/GitHub/Bicycle_speedometer_GSM_GPS/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/variants/leonardo",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit-GFX-Library-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_BMP280_Library-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_BusIO-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_SSD1306-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Adafruit_Sensor-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Low-Power-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/PinChangeInterruptHandler-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Qwiic_Capacitive_Touch_Slider_Arduino_Library-master/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/RFReceiver-master/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/RFTransmitter-master",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/Gabriel/.platformio/packages/framework-arduino-avr/libraries/u8g2-master",
+                    "C:/Users/Gabriel/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40304",
+                "ARDUINO_AVR_LEONARDO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "USB_VID=0x2341",
+                "USB_PID=0x8036",
+                "USB_PRODUCT=\"Arduino Leonardo\"",
+                "USB_MANUFACTURER=\"Arduino\"",
+                "__AVR_ATmega32U4__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Gabriel/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32u4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
